@@ -4,4 +4,4 @@ Console.WriteLine("Hello, World!");
 
 string nom = Console.ReadLine();
 
-Console.WriteLine($"Bienvenue {nom} !!");
+Console.WriteLine($"Welcome {nom} !!");
