@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonOutil", "MonOutil.csproj", "{A5483501-F8DF-4E02-A339-CBDCB6980FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5483501-F8DF-4E02-A339-CBDCB6980FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5483501-F8DF-4E02-A339-CBDCB6980FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5483501-F8DF-4E02-A339-CBDCB6980FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5483501-F8DF-4E02-A339-CBDCB6980FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDAC888B-E9F8-47BC-AF83-A9044F324F6E}
+	EndGlobalSection
+EndGlobal
